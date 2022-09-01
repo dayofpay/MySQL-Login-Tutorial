@@ -1,0 +1,31 @@
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\VDevsTutorial - MySQL.exe.config
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\VDevsTutorial - MySQL.exe
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\VDevsTutorial - MySQL.pdb
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\MySql.Data.dll
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\System.Buffers.dll
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\System.Memory.dll
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\ZstdNet.dll
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\Google.Protobuf.pdb
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\Google.Protobuf.xml
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\MySql.Data.xml
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\System.Buffers.xml
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\System.Memory.xml
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\obj\Debug\VDevsTutorial - MySQL.csprojAssemblyReference.cache
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\obj\Debug\VDevsTutorial - MySQL.csproj.CoreCompileInputs.cache
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\obj\Debug\VDevsTutorial - MySQL.csproj.CopyComplete
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\obj\Debug\VDevsTutorial - MySQL.exe
+C:\Users\VCompany\source\repos\VDevsTutorial - MySQL\VDevsTutorial - MySQL\obj\Debug\VDevsTutorial - MySQL.pdb
